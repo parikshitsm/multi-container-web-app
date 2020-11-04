@@ -12,11 +12,11 @@ Below are the service details :
 # Steps to run the application
 Under root directory look out for docker-compose.yml file. From command prompt execute below command from root project directory.
 
-  docker-compose up
+    docker-compose up
   
 This shall start all docker containers respective to individual service. Once done verify if all containers are up & running by below command : 
 
-  docker ps
+    docker ps
   
 Now open browser and check if below url is working as expected : 
 

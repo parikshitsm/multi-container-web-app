@@ -3,11 +3,11 @@ This application shows how a web-application can be deployed on multiple docker 
 In this application we have 6 different running docker containers where every container hosts an individual service. 
 Below are the service details : 
   - Nginx
-  - Client
-  - API (server)
+  - Client (React)
+  - API (Express server) 
   - Postgres
   - Redis
-  - Worker
+  - Worker (Node.js)
   
 # Steps to run the application
 Under root directory look out for docker-compose.yml file. From command prompt execute below command from root project directory.

@@ -20,7 +20,7 @@ This shall start all docker containers respective to individual service. Once do
   
 Now open browser and check if below url is working as expected : 
 
-  http://http://localhost:3050/
+  http://localhost:3050/
   
  This shall open the React application. This is a simple Fibonacci series application where user can enter any specific index as per need & verify if the application calculates    correct fibonacci value for the index. Example : Fibonacci series is as below : 
  

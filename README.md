@@ -12,7 +12,7 @@ Below are the service details :
 # Steps to run the application
 Under root directory look out for docker-compose.yml file. From command prompt execute below command from root project directory.
 
-    docker-compose up
+    docker-compose up --build
   
 This shall start all docker containers respective to individual service. Once done verify if all containers are up & running by below command : 
 
